@@ -8,8 +8,7 @@ This is a simple script which generates a random MAC address and assigns it to y
 1. Open a Terminal window (Applications -> Utilities -> Terminal)
 2. Copy and paste the following, pressing `ENTER` after each line:
 3. `git clone https://github.com/theodorehadges/mac-change.git`
-4. If it prompts you to install git, you can press `y` followed by `ENTER`
-5. `cd MAC-change`
+4. `cd MAC-change`
 5. `chmod +x change-my-MAC`
 6. `./change-my-MAC`
 7. Turn your WiFi off then back on
